@@ -7,7 +7,7 @@ npm install
 ```
 npm run serve
 ```
-### You need json install json server for this project (Read Documentation)
+### You need to install json server for this project (Read Documentation)
 ```
 npm install json-server
 ```
