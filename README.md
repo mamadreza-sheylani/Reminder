@@ -1,19 +1,15 @@
-# trying
+# Project Vue Task Tracker (Reminder)
 
 ## Project setup
 ```
 npm install
 ```
-
-### Compiles and hot-reloads for development
 ```
 npm run serve
 ```
-
-### Compiles and minifies for production
+### You need json install json server for this project (Read Documentation)
 ```
-npm run build
+npm install json-server
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+<p align="center"> Built And Customized By <a href='https://instagram.com/mamadreza_sheylani'>Mike</a> .</p>
